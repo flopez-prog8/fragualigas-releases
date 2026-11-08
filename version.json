@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/flopez-prog8/fragualigas-releases/releases/download/v1.0.0/fragualigas-1.0.0.apk",
-  "sha256": "57F6DA2DCEDDBF51564F2A9C5A15D832DBA4FE3DFD9CDD6B6E63CFD6B670AF2C",
-  "notas": "Primera versión de FraguaLigas.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/flopez-prog8/fragualigas-releases/releases/download/v1.0.1/fragualigas-1.0.1.apk",
+  "sha256": "A7E95F3D93E17424D9A349140C14C542B546B7BE6B929D674048D5FC9A48C032",
+  "notas": "Mejoras de estabilidad y primera prueba del sistema de actualización.",
   "minVersionCodeSoportado": 1,
   "publicadoEn": "2026-11-08"
 }
