@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/flopez-prog8/fragualigas-releases/releases/download/v1.0.1/fragualigas-1.0.1.apk",
-  "sha256": "A7E95F3D93E17424D9A349140C14C542B546B7BE6B929D674048D5FC9A48C032",
-  "notas": "Mejoras de estabilidad y primera prueba del sistema de actualización.",
-  "minVersionCodeSoportado": 1,
-  "publicadoEn": "2026-11-08"
+  "versionCode": 3,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/flopez-prog8/fragualigas-releases/releases/download/v1.1.0/fragualigas-1.1.0.apk",
+  "sha256": "A3ABAAD30E57385B63EE6CBBB408C8E85354BABB3FD1236E2B2710DA2896F494",
+  "notas": "Añadidos torneos limitados: Draft con mesas configurables, Sellado y Presentaciones, con entrega de material y persistencia local.",
+  "minVersionCodeSoportado": 2,
+  "publicadoEn": "2026-11-26"
 }
